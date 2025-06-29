@@ -1,0 +1,17 @@
+export default {
+  LogOut: 'Log Out',
+  LogIn: 'Log In',
+  SignUp: 'Sign Up',
+  ByEmail: 'By Email',
+  ByPhoneNumber: 'By Phone Number',
+  Email: 'Email',
+  Password: 'Password',
+  PasswordCF: 'Password confirm',
+  EnterYourPhoneNumber: 'Enter your phone number',
+  ForgotPW: 'Forgot password?',
+  NotAccount: "Don't have an account?",
+  Code2FA: 'Code 2FA',
+  CodeMail: 'Email verification code',
+  ResendMail: 'Resend mail',
+  NewPassword: 'New Password',
+};

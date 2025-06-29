@@ -1,0 +1,17 @@
+export default {
+  LogOut: 'Đăng xuất',
+  LogIn: 'Đăng nhập',
+  SignUp: 'Đăng ký',
+  ByEmail: 'Bằng email',
+  ByPhoneNumber: 'Bằng số điện thoại',
+  Email: 'Email',
+  Password: 'Mật khẩu',
+  PasswordCF: 'Nhập lại mật khẩu',
+  EnterYourPhoneNumber: 'Nhập số điện thoại của bạn',
+  ForgotPW: 'Quên mật khẩu?',
+  NotAccount: 'Bạn chưa có tài khoản?',
+  Code2FA: 'Mã 2FA',
+  CodeMail: 'Mã xác thực mail',
+  ResendMail: 'Gửi lại mail',
+  NewPassword: 'Mật khẩu mới',
+};

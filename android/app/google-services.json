@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "844538496898",
+    "project_id": "extobe-b6251",
+    "storage_bucket": "extobe-b6251.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844538496898:android:387293fd1eb8eebec4319b",
+        "android_client_info": {
+          "package_name": "com.extobe.eggroup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "844538496898-8be9c1ck1a9s2s1hb9sp4p3bc5scrbsb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.extobe.eggroup",
+            "certificate_hash": "82e6a4314476689229b833692c274264c0ca937e"
+          }
+        },
+        {
+          "client_id": "844538496898-891v6mgpr5tvond5couhrtj5u4vnrgg3.apps.googleusercontepnt.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPJR9_GCteuC7EHm4CHlmNbjyyj3G6OU0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "844538496898-891v6mgpr5tvond5couhrtj5u4vnrgg3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

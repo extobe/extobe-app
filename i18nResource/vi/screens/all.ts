@@ -1,0 +1,17 @@
+export default {
+  ExperienceNow: 'Trải nghiệm ngay',
+  Cancel: 'Huỷ',
+  Submit: 'Gửi đi',
+  Resend: 'Gửi lại',
+  Continue: 'Tiếp tục',
+  Agree: 'Đồng ý',
+  Copy: 'Sao chép',
+  TryAgain: 'Thử lại',
+  Confirm: 'Xác nhận',
+  TurnOff: 'Tắt',
+  TurnOn: 'Bật',
+  Enable: 'Cho phép',
+  Disable: 'Vô hiệu',
+  Back: 'Trở lại',
+  Next: 'Tiếp theo',
+};
